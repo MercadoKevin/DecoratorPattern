@@ -21,7 +21,7 @@ The content of your Cimb.java should ONLY contain the following codes with the e
 
 
 
-public class Cimb {
+	public class Cimb {
 
 	public static void main(String[] args) {
 		
