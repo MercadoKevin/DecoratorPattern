@@ -13,6 +13,7 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 
 Develop a decorator pattern approach that will implement the given UML diagram:
 
+![Screenshot 2024-12-16 225623](https://github.com/user-attachments/assets/79d5798c-2a79-4cfb-8708-38c32d71ae07)
 
 
 The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name :
