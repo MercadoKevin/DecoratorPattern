@@ -57,13 +57,6 @@ public class Cimb {
 }
 
 
-
-
-
-
-
-
-
 You should display the following output:
 
 Account name: Juan Dela Cruz
@@ -88,6 +81,7 @@ Account type: UpSave
 Interest rate: 0.04
 New balance: 10400.0
 Benefits: Standard Savings Account, With Insurance
+
 
 
 Description of the following methods
