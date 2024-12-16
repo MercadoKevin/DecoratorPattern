@@ -54,8 +54,8 @@ public class Cimb {
 		System.out.println("Interest rate: " + upSave.getInterestRate());
 		System.out.println("New balance: " + upSave.computeBalanceWithInterest());
 		System.out.println("Benefits: " + upSave.showBenefits());
+	 }
 	}
-}
 
 
 You should display the following output:
